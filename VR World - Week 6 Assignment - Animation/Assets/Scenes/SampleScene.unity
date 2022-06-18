@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 160494263}
   - component: {fileID: 160494262}
   m_Layer: 0
-  m_Name: Bouncing Ball #2
+  m_Name: Bouncing Ball 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -696,7 +696,7 @@ Animator:
   m_GameObject: {fileID: 1495605937}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5683a78c46fb952498a8a9f5c1aa8367, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
